@@ -2,8 +2,8 @@
 
 Scraping Data {
 Source: .זאפ השוואת מכירים
-Path Of Scraper: click product -> extract min-price -> click "מפרט טכני מלא" -> extract specified Data -> press back button.
-Data Extracted: [min price, manufactor, date published, memory type, storage capacity, gaming, OS, 1 in 2, series, screen size, screen resolution, display refresh rate, GPU, CPU, memory capacity, processor speed, cpu generation, hard drive type]
+Path Of Scraper: click more-details-btn -> extract mean price -> extract specified Data -> press back button. For Each Product.
+Data Extracted: [meann price, manufactor, date published, memory type, storage capacity, gaming, OS, 1 in 2, series, screen size, screen resolution, display refresh rate, GPU, CPU, memory capacity, processor speed, cpu generation, hard drive type]
 }
 
 Data explanation {
